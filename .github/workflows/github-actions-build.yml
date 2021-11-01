@@ -34,4 +34,3 @@ jobs:
       - name: Build Solution
         run: |
           msbuild.exe ConsoleApp1.sln /p:platform="Any CPU" /p:configuration="Release"
-          echo "Build complete!"
