@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hooray for Continous Integration!");
+            Console.WriteLine("Hooray for Continous Integration.");
         }
     }
 }
