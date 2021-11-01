@@ -24,6 +24,8 @@ jobs:
 
       - name: Navigate to Workspace
         run: cd $GITHUB_WORKSPACE
+        
+      - name: Navigate to Project
         run: cd ConsoleApp1
 
       - name: Restore Packages
